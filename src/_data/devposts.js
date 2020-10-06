@@ -30,6 +30,9 @@ const getExcerpt = (md) => {
 };
 
 module.exports = async () => {
+  if(!process.env.DEVTO) {
+    return []
+  }
   const { data } = await axios.get(apiRoot, { headers: { "api-key": process.env.DEVTO } });
 
   let response = [];

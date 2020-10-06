@@ -8,25 +8,25 @@
 
 [Barebones](https://github.com/5t3ph/stylestage/tree/main/src/styles/css/barebones.css) By Vinícius Philot
 
+[Blueprint](https://github.com/5t3ph/stylestage/tree/main/src/styles/css/blueprint.css) By Todd Libby
+
 [Center Stage](https://github.com/5t3ph/stylestage/tree/main/src/styles/css/center-stage.css) By Katie Langerman
+
+[Color Stages](https://github.com/5t3ph/stylestage/tree/main/src/styles/css/color-stages.css) By Claire Lipskey
 
 [Crawling Chaos](https://github.com/5t3ph/stylestage/tree/main/src/styles/css/crawling-chaos.css) By Adrian Bece
 
 [CSS CLI](https://github.com/5t3ph/stylestage/tree/main/src/styles/css/css-cli.css) By Ryan Mulligan
 
-[Blueprint](https://github.com/5t3ph/stylestage/tree/main/src/styles/css/blueprint.css) By Todd Libby
-
-[Color Stages](https://github.com/5t3ph/stylestage/tree/main/src/styles/css/color-stages.css) By Claire Lipskey
+[Drafter](https://github.com/5t3ph/stylestage/tree/main/src/styles/css/drafter.css) By Claudine Ong
 
 [Emphasis](https://github.com/5t3ph/stylestage/tree/main/src/styles/css/emphasis.css) By d-cs
 
 [Geocities](https://github.com/5t3ph/stylestage/tree/main/src/styles/css/geocities.css) By whitep4nth3r
 
-[Drafter](https://github.com/5t3ph/stylestage/tree/main/src/styles/css/drafter.css) By Claudine Ong
+[Hackytoberfest](https://github.com/5t3ph/stylestage/tree/main/src/styles/css/hackytoberfest.css) By Jordana Harrison
 
 [Headquarters](https://github.com/5t3ph/stylestage/tree/main/src/styles/css/headquarters.css) By Stephanie Eckles
-
-[Hackytoberfest](https://github.com/5t3ph/stylestage/tree/main/src/styles/css/hackytoberfest.css) By Jordana Harrison
 
 [Jet Set](https://github.com/5t3ph/stylestage/tree/main/src/styles/css/jet-set.css) By Cory Birdsong
 
@@ -46,13 +46,13 @@
 
 [Pink Outside The Box](https://github.com/5t3ph/stylestage/tree/main/src/styles/css/pink-outside-the-box.css) By GabbyKC
 
+[Propaganda](https://github.com/5t3ph/stylestage/tree/main/src/styles/css/propaganda.css) By Maryam Hanafiah
+
 [Purpleland](https://github.com/5t3ph/stylestage/tree/main/src/styles/css/purpleland.css) By Dawntraoz
 
 [Purplify &amp; Pastel](https://github.com/5t3ph/stylestage/tree/main/src/styles/css/purplify-and-pastel.css) By Dominic Duffin
 
 [Queer Modes](https://github.com/5t3ph/stylestage/tree/main/src/styles/css/queer-modes.css) By Miriam Suzanne
-
-[Propaganda](https://github.com/5t3ph/stylestage/tree/main/src/styles/css/propaganda.css) By Maryam Hanafiah
 
 [Retro Cyberpunk](https://github.com/5t3ph/stylestage/tree/main/src/styles/css/retro-cyberpunk.css) By Inès K.
 
